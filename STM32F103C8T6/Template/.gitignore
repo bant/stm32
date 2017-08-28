@@ -1,0 +1,13 @@
+# buld フォルダ無視
+build/
+
+# 
+*.hex
+*.eep
+*.elf
+*.lss
+*.map
+*.sym
+*.*~
+*.BAK
+
